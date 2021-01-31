@@ -1,0 +1,2 @@
+Please note:
+Before running you need to have all the images in the root folder.
