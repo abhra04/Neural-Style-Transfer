@@ -78,7 +78,7 @@ if filename1!='' and filename2!='':
 	st.markdown('<p class="big-font">Content Image</p>', unsafe_allow_html=True)
 
 	st.image(image2, caption='', use_column_width=True)
-	st.markdown('<p class="big-font">Content Image</p>', unsafe_allow_html=True)
+	st.markdown('<p class="big-font">Style Image</p>', unsafe_allow_html=True)
 
 	st.write("")
 	#st.write("Creating Your Image....")
